@@ -10,6 +10,9 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            string[] array1 = new string[4] { "Hello", "2", "world", ":-D" };
+            string[] array2 = new string[array1.Length];
+
 
         }
     }
