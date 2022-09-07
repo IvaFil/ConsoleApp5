@@ -35,6 +35,8 @@ namespace ConsoleApp5
                 Console.WriteLine();
             }
 
+            CreateResultArray(array1, array2);
+            PrintArray(array2);
         }
     }
 }
